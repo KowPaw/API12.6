@@ -1,0 +1,42 @@
+body {
+	text-align: center;
+	background: rgb(85, 172, 238);
+}
+
+h1 {
+	margin-bottom: 50px;
+}
+
+#search {
+	background: yellow;
+}
+
+#countries {
+	margin: 0 auto;
+	padding: 20px;
+	width: 500px;
+}
+
+h2 {
+	margin-top: 50px;
+}
+
+li,
+p {
+	list-style-type: none;
+	background: yellow;
+}
+
+li {
+	border-bottom: none;
+	margin-top: 5px;
+}
+
+p {
+	margin: 0;
+}
+
+img {
+	margin-top: 25px;
+	width: 10%;
+}
